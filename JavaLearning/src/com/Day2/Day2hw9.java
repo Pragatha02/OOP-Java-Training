@@ -2,7 +2,7 @@ package com.Day2;
 
 public class Day2hw9 {
     public static void main(String[] args) {
-        char ch = 'A';
+        char ch = '9';
         if( (ch >= 'A' && ch <= 'Z') || (ch >= 'a' && ch <= 'z') ) {
             System.out.println("Alphabet");
         }
